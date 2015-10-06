@@ -198,7 +198,7 @@
                                         <animations/>
                                         <connections>
                                             <outlet property="onSwitch" destination="yyn-xg-xiW" id="Swc-yI-bHm"/>
-                                            <outlet property="switchCell" destination="eN5-gC-KIi" id="Fh0-bu-SYA"/>
+                                            <outlet property="switchLabel" destination="eN5-gC-KIi" id="4MI-Py-22K"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
